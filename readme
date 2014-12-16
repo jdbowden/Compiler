@@ -1,1 +1,6 @@
-This repository holds files for CS 4301 Languages and Compilers. 
+This repository holds files for CS4301 Languages and Compilers. 
+Pascal Compiler done during Nov-Dec 2014. 
+Team project done by Aldo Hernandez, David Cardenas, and Jerry Bowden.
+The project was written using C++. The compiler takes pascal code as input
+and creates object files containing assembly language for the RAMM compiler.
+
